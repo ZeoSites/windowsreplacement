@@ -1,6 +1,5 @@
-﻿
 User-agent: *
 Allow: /
 
-Sitemap: https://windowsreplacement.biz/sitemap.xml
-    
+
+Sitemap: https://windowsreplacement.netlify.app/sitemaps3.xml/
